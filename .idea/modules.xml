@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceBasics/InheritanceBasics.iml" filepath="$PROJECT_DIR$/InheritanceBasics/InheritanceBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceChallengeSELF/InheritanceChallengeSELF.iml" filepath="$PROJECT_DIR$/InheritanceChallengeSELF/InheritanceChallengeSELF.iml" />
+    </modules>
+  </component>
+</project>
